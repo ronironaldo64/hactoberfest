@@ -1,1 +1,1 @@
-# Event Hactoberfest digitalocean 2019
+# Event Hactoberfest 2019
